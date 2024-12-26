@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028374, g: 0.2257146, b: 0.30692247, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028401, g: 0.22571504, b: 0.30692318, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -141,6 +141,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Hat_Cap
+      objectReference: {fileID: 0}
+    - target: {fileID: 1430601076570313361, guid: ada41267943a79c4286b35bd7172eff3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1770289268706740267, guid: ada41267943a79c4286b35bd7172eff3,
         type: 3}
@@ -3576,6 +3581,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hat_Captain_Black
       objectReference: {fileID: 0}
+    - target: {fileID: 195845403083151070, guid: 0d90b882636c6034b8e91bb072d0c083,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 719477493284359268, guid: 0d90b882636c6034b8e91bb072d0c083,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4520,6 +4530,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Hat_Witch_Blue
+      objectReference: {fileID: 0}
+    - target: {fileID: 5159751045895028153, guid: 364b4f12314d0fb4ea2870ddcc2f1842,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5535151066463971075, guid: 364b4f12314d0fb4ea2870ddcc2f1842,
         type: 3}
@@ -6600,6 +6615,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: XR Device Simulator
+      objectReference: {fileID: 0}
+    - target: {fileID: 6598815579406187037, guid: 18ddb545287c546e19cc77dc9fbb2189,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
